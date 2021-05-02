@@ -17,7 +17,7 @@ Tax Rate = fixed tax rate for that city ex Cincinnati tax rate = 7% = .07;
 
 /**
  *
- * @author bhakti
+ * @author linkedin learing 'Learning JAVA' modified by bhakti
  */
 public class MealPrice 
 {
